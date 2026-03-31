@@ -1,4 +1,4 @@
-## Ola, eu sou Davi
+## Ola!, eu sou Davi
 
 🕹️ Estudante de Desenvolvimento de Jogos no Entra21 SC
 
@@ -32,6 +32,8 @@
 
 📊 Estatísticas do GitHub
 ---
+
+![Gráfico de contribuições](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
