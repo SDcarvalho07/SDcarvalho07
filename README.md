@@ -1,16 +1,54 @@
-## Hi there 👋
+## Ola, eu sou Davi
 
+🕹️ Estudante de Desenvolvimento de Jogos no Entra21 SC
 
-**SDcarvalho07/SDcarvalho07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apaixonado(a) por criar experiências interativas
 
-Here are some ideas to get you started:
+🚀 Em constante evolução no mundo da programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+🧠 Sobre mim
+---
+🎯 Focado(a) em: Desenvolvimento de jogos
+
+🎮 Interesse em: gameplay, design de jogos e lógica
+
+🌱 Atualmente aprendendo: [Unity/Java/C#]
+
+🤝 Aberto(a) para colaborar em projetos de games
+
+⚡ Curiosidade: adoro transformar ideias em jogos
+
+---
+🛠️ TECNOLOGIAS E FERRAMENTAS
+---
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-purple?style=flat&logo=csharp)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=openjdk)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+
+---
+
+📊 Estatísticas do GitHub
+---
+
+---
+
+🎮 Projetos em desenvolvimento
+---
+
+---
+
+📫 Contato
+---
+
+💼 LinkedIn: seu link
+
+📧 Email: sdcarvalho.work@gmail.com
+
+🚀 Objetivo: Programar jogos autorais
+
+---
+
+![Silksong](https://media.giphy.com/media/2ZsmHUWecHSlqXLAyi/giphy.gif)
