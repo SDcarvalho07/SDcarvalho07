@@ -1,4 +1,4 @@
-## Ola!, eu sou Davi
+## Ola! Eu sou Davi
 
 🕹️ Estudante de Desenvolvimento de Jogos no Entra21 SC
 
