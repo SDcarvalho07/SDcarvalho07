@@ -23,8 +23,10 @@
 ---
 🛠️ TECNOLOGIAS E FERRAMENTAS
 ---
-![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)![C#](https://img.shields.io/badge/-C%23-purple?style=flat&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=openjdk)![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-purple?style=flat&logo=csharp)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=openjdk)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
 ---
 
