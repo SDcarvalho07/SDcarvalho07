@@ -14,7 +14,7 @@
 
 🎮 Interesse em: gameplay, design de jogos e lógica
 
-🌱 Atualmente aprendendo: [![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)/![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=openjdk)/![C#](https://img.shields.io/badge/-C%23-purple?style=flat&logo=csharp)]
+🌱 Atualmente aprendendo: [![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity) / ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=openjdk) / ![C#](https://img.shields.io/badge/-C%23-purple?style=flat&logo=csharp)]
 
 🤝 Aberto(a) para colaborar em projetos de games
 
