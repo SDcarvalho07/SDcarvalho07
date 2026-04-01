@@ -54,3 +54,4 @@
 ---
 
 ![Silksong](https://media.giphy.com/media/2ZsmHUWecHSlqXLAyi/giphy.gif)
+![Xbox GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxvMzFqYnN1NjBuMWxhYTdzMGk2d2RqZ216aDUwdm1hNGo5ZzVzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aW3hGTIxHhcOQ5sW2V/giphy.gif)
